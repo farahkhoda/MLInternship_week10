@@ -1,0 +1,6 @@
+true_class,predicted_class,count
+Potted Meat Can,Sugar Box,57
+Tuna Fish Can,Potted Meat Can,47
+Tuna Fish Can,Tomato Soup Can,15
+Tomato Soup Can,Potted Meat Can,12
+Tomato Soup Can,Cracker Box,1
